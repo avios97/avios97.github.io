@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Andrea Savio"
   avatar           : "profile.png"
-  bio              : "PhD student in Statistics @Unipd"
-  location         : "Padova, Italy"
+  bio              : "Research Fellow @Unipd | Contract Professor @Unive"
+  location         : "Padova, Italy | Venice, Italy"
   employer         :
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
  # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "federica.stolf@phd.unipd.it"
+  email            : "svandr97@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
