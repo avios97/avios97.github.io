@@ -15,7 +15,7 @@ Education
 ======
 * MBA, Post University (Waterbury, USA), 2020-2021
 * M.S. in Statistical Sciences, University of Padua, 2020 - 2021
-* B.S. in Statistics for Technology and Sciences, University of Padua, 2016 - 2019
+* B.S. in Statistics for Business and Economics, University of Padua, 2016 - 2019
 
 Experience
 ======
@@ -26,12 +26,11 @@ Experience
 * R package "DIMORA", 2021
 	* Statistical package allowing the analysis of diffusion data using different models: Standard Bass, Generalised Bass, GGM, UCRCD, SARIMA. In collaboration with Federico Zanghi.
 
-* University collaborator, University of Padua, 2021(2019, 2018)
 
 
 Awards
 ======
  * First place at “Laboratorio con le aziende” promoted by UniPd and Deloitte: development of a contact-strategy algorithm, 2021
- * •	Partecipation in the Bloomberg Trading Challenge and acquisition of the Bloomberg Market Concept, 2021
+ * Partecipation in the Bloomberg Trading Challenge and acquisition of the Bloomberg Market Concept, 2021
  * Mille e una Lode Award 2018, University of Padua
 
